@@ -29,4 +29,4 @@ Filters
 
     lumi-email-obfuscator/jquery_library
     
-Put your script handle into this filter and plugin will assume, that jquery is in this script and it will use it.
+Put your script handle into this filter and plugin will assume, that jquery is in this script and it will use it. This is helfull, when you include jquery in some other script (maybe Grunting your frontend scripts?).
